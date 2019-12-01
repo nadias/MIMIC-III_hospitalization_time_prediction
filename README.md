@@ -1,0 +1,2 @@
+# MIMIC-III_hospitalization_time_prediction
+The goal of this project is to predict the hospitalization times given data on hospitalization events, including information about the pacient, ICU, medical exams that were performed and their results, among other variables.  This work explores a part of the MIMIC-III dataset, corresponding to hospitalization events.  It presents an exploratory data analysis using Seaborn, model creation and evaluation using Keras with a TensorFlow backend. The notebook should be run in a pyspark cluster.
